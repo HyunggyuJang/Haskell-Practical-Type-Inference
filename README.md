@@ -1,16 +1,7 @@
-- [Working in progress](#orgf241cc2)
-- [Notes](#orgabcab28)
-
-
-
-<a id="orgf241cc2"></a>
-
 # Working in progress
 
 Currently working on (Jones et al. 2007)  
 
-
-<a id="orgabcab28"></a>
 
 # Notes
 

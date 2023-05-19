@@ -1,4 +1,5 @@
 #+title: Playground while reading papers around Haskell's type system
+#+options: toc:nil
 
 * Working in progress
 Currently working on [cite:@jonesPracticalTypeInference2007]
