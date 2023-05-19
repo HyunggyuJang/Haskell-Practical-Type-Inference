@@ -1,0 +1,7 @@
+#+title: Playground while reading papers around Haskell's type system
+
+* Working in progress
+Currently working on Practical Type Inference for Arbitrary-Rank Types[fn:1]
+
+* Footnotes
+[fn:1] Jones, Vytiniotis, Weirich, Shields (2007-01) Practical Type Inference for Arbitrary-Rank Types, J. Funct. Prog..
