@@ -2,3 +2,8 @@
 
 * Working in progress
 Currently working on [cite:@jonesPracticalTypeInference2007]
+* Notes
+From [cite:@jonesPracticalTypeInference2007], you can learn about the definition of impredicative, which often appears when you work on theorem proving using ITP, such as Coq [cite:@teamCoqProofAssistant2022]:
+#+begin_quote
+A type system that allows a polymorphic function to be instantiated at a polytype is called /impredicative/, while a predicative system only allows a polymorphic function to be instantiated with a monotype.
+#+end_quote
